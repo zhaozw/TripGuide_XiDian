@@ -67,24 +67,36 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int dongdajie=0x7f020015;
         public static final int gaoxinsaige=0x7f020016;
         public static final int ic_launcher=0x7f020017;
-        public static final int listitem_bg=0x7f020018;
-        public static final int listitem_my_bg=0x7f020019;
-        public static final int minleyuan=0x7f02001a;
-        public static final int nandajie=0x7f02001b;
-        public static final int setbar_bg=0x7f02001c;
-        public static final int sketchy_weather_12=0x7f02001d;
-        public static final int tab_bg_selected=0x7f02001e;
-        public static final int tab_bg_selector=0x7f02001f;
-        public static final int tab_bg_unselected=0x7f020020;
-        public static final int tab_divider=0x7f020021;
-        public static final int tab_text_selector=0x7f020022;
-        public static final int welcome=0x7f020023;
-        public static final int xiaozhai=0x7f020024;
-        public static final int xidajie=0x7f020025;
+        public static final int icon_marka=0x7f020018;
+        public static final int icon_markb=0x7f020019;
+        public static final int icon_markc=0x7f02001a;
+        public static final int icon_markd=0x7f02001b;
+        public static final int icon_marke=0x7f02001c;
+        public static final int icon_markf=0x7f02001d;
+        public static final int icon_markg=0x7f02001e;
+        public static final int icon_markh=0x7f02001f;
+        public static final int icon_marki=0x7f020020;
+        public static final int icon_markj=0x7f020021;
+        public static final int listitem_bg=0x7f020022;
+        public static final int listitem_my_bg=0x7f020023;
+        public static final int minleyuan=0x7f020024;
+        public static final int nandajie=0x7f020025;
+        public static final int pop=0x7f020026;
+        public static final int setbar_bg=0x7f020027;
+        public static final int sketchy_weather_12=0x7f020028;
+        public static final int tab_bg_selected=0x7f020029;
+        public static final int tab_bg_selector=0x7f02002a;
+        public static final int tab_bg_unselected=0x7f02002b;
+        public static final int tab_divider=0x7f02002c;
+        public static final int tab_text_selector=0x7f02002d;
+        public static final int welcome=0x7f02002e;
+        public static final int xiaozhai=0x7f02002f;
+        public static final int xidajie=0x7f020030;
     }
     public static final class id {
-        public static final int action_settings=0x7f09001c;
+        public static final int action_settings=0x7f09001d;
         public static final int bmapsView=0x7f090019;
+        public static final int btn_test=0x7f09001b;
         public static final int busline_detail=0x7f09001a;
         public static final int button_set=0x7f090001;
         public static final int detail_area=0x7f090006;
@@ -111,7 +123,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int search_address=0x7f090017;
         public static final int search_name=0x7f090016;
         public static final int search_tel=0x7f090018;
-        public static final int tabsText=0x7f09001b;
+        public static final int tabsText=0x7f09001c;
     }
     public static final class layout {
         public static final int activity_destination=0x7f030000;
